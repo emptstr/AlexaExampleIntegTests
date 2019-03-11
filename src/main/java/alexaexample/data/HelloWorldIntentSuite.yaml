@@ -1,0 +1,5 @@
+---
+name: "Test HelloWorld intent"
+testCases:
+- input: "ask greeter hi"
+  output: "Hello world"
